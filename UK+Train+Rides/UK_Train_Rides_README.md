@@ -11,7 +11,7 @@ To explore and visualize UK train data, to understand:
 - How is the on-time performance?
 
 ## Tools used
-- Power Queery
+- Power Query
 - Excel
 ## Process
 
