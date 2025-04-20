@@ -36,7 +36,7 @@ This project analyzes hospital patient records to uncover trends in admission, r
 
 #### c. Hospital Costs per Visit
 - The average cost per visit is $6,270.
-- Inpatients have the highest average cost per visit, which is $9,330. COVID-19 costs $126,000 for the intensive care unit and $19,000 for isolation. The average increases more because they encounter problems such as malignant disorders and injuries. The average price for these problems ranges from $10,000 to $26,000
+- Inpatients have the highest average cost per visit, which is $9,330. COVID-19 costs $126,000 for the intensive care unit and $19,000 for isolation. The average increased more because they encountered problems such as malignant disorders and injuries. The average price for these problems ranges from $10,000 to $26,000
 - Outpatients have an average of $2.02k because most of them encounter lung cancer issues. These issues are suspicion of lung cancer, non-small cell lung cancer, and non-small cell lung carcinoma.
 - Emergency patients spend an average of $7,460 because they encountered a stroke, which costs $161,000. The other two visits were for myocardial infarction and stroke, which cost $66,000 and $25,000, respectively.
 #### d. Procedures Covered by Insurance
