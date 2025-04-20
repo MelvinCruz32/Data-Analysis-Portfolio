@@ -39,8 +39,17 @@ Tuesday is the busiest day of the week, especially in the morning. The other day
 3. Revenue Trends by Ticket Types and Classes:
 - First class provides 23.4%, while the standard ticket class contributes 76.5% towards the revenue
 - Advanced tickets from both classes surpassed peak-off and anytime tickets. These tickets contributed 43.6% to the overall revenue.
+<img width="408" alt="Screenshot 2025-04-20 at 10 50 39 AM" src="https://github.com/user-attachments/assets/7e9c5637-0bf4-4f6c-9f44-ae18f3bccaab" />
 
 4. On-Time Performance & Contributing Factors:
 - 88.2% of trains arrive on time; none of the passengers requested a refund.
 - Delays and cancellations cause refund requests. In January, technical issues resulted in a refund request of $2905 due to delays. Signal failure caused journey cancellations, which accounted for a $7,550 refund request.
 - In March, technical issues and signal failures increased by 33.5%. These causes need improvement to enhance the punctuality rate.
+<img width="611" alt="Screenshot 2025-04-20 at 10 57 00 AM" src="https://github.com/user-attachments/assets/6860bafc-4854-48fd-96ff-11ac8d0e22aa" />
+
+<img width="609" alt="Screenshot 2025-04-20 at 10 57 12 AM" src="https://github.com/user-attachments/assets/396412af-6a13-4b3d-8cf2-09d1885f7029" />
+
+<img width="596" alt="Screenshot 2025-04-20 at 10 57 26 AM" src="https://github.com/user-attachments/assets/0a5ee405-374b-427c-9d88-5f00bc1871a5" />
+
+<img width="594" alt="Screenshot 2025-04-20 at 10 57 36 AM" src="https://github.com/user-attachments/assets/3d3aa196-da6f-4a0a-b2bd-9993e925df45" />
+
