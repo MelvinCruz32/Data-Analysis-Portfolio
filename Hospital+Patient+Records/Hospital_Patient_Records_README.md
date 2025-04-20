@@ -28,15 +28,15 @@ This project analyzes hospital patient records to uncover trends in admission, r
 - Four patients returned to the hospital because they encountered problems. The majority of these reasons are unknown. The readmission years are 2011, 2013, 2018, and 2019.
 
 #### b. Average Stay
-- The average hospital stay for Inpatients is 79 hours. The stay-in hours exceeded for years, such as 2017, 2018, 2020, and 2021.
+- The average stay-in hours for Inpatients are 79 hours. The average stay-in hours exceeded for years such as 2017, 2018, 2020, and 2021.
 - 2017 is higher because of the periodic evaluation. The percentage of patients who remained for 2 months is 73%. 
-- In 2018, another patient with a periodic evaluation stayed there for almost a year, increasing the percentage to 92%.
+- In 2018, another patient with a periodic evaluation stayed for almost a year, increasing the percentage to 92%.
 - 2020 had an average stay-in hour of 82.57 because 74% of patients contracted COVID-19. Their remaining time for isolation is 56%, and those in the intensive care unit stayed about 18%.
-- The 2021 average stay-in hours are 5.7% higher than 2020's. Its average increased to 6.3% because the percentage of COVID-19 patients staying at the hospital has increased. The percentage of patients with COVID-19 who are in isolation has risen from 56% to 62%.
+- The average stay-in hours for 2021 are 5.7% higher than 2020's. Its average increased to 6.3% because the percentage of COVID-19 patients remaining has increased. The percentage of patients with COVID-19 who are in isolation has risen from 56% to 62%.
 
 #### c. Hospital Costs per Visit
 - The average cost per visit is $6,270.
-- Inpatients have the highest average cost per visit, which is $9,330. COVID-19 costs $126,000 for the intensive care unit and $19,000 for isolation. The average increased more because they encountered problems such as malignant disorders and injuries. The average price for these problems ranges from $10,000 to $26,000
+- Inpatients have the highest average cost per visit, which is $9,330. COVID-19 costs $126,000 for the intensive care unit and $19,000 for isolation. The average increased because they encountered problems such as malignant disorders and injuries. The average price for these problems ranges from $10,000 to $26,000
 - Outpatients have an average of $2.02k because most of them encounter lung cancer issues. These issues are suspicion of lung cancer, non-small cell lung cancer, and non-small cell lung carcinoma.
 - Emergency patients spend an average of $7,460 because they encountered a stroke, which costs $161,000. The other two visits were for myocardial infarction and stroke, which cost $66,000 and $25,000, respectively.
 #### d. Procedures Covered by Insurance
