@@ -27,7 +27,7 @@ To explore and visualize UK train data, to understand:
 1. Popular Routes: 
 * Manchester Piccadilly - Liverpool Lime Street topped the tree map with 3,854 ticket purchases. 
 * The top 5 routes, London Paddington to Reading, made higher ticket sales than the other routes. This route contributed 9.79% to the overall revenue.
-<img width="936" alt="Screenshot 2025-04-20 at 10 49 44 AM" src="https://github.com/user-attachments/assets/dec5d5b4-f3c2-4737-b3a5-ef2ff6c0a461" />
+<img width="377" alt="Screenshot 2025-04-20 at 12 13 17 PM" src="https://github.com/user-attachments/assets/9897a915-c3a0-42e7-9780-08559d53078e" />
 
 2. Peak Travel Times:
 - Peak travel hours are 6:30 am - 7:00 am, 4-5:30 pm, and 6:20 pm-8 pm. 
