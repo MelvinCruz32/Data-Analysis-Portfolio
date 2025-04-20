@@ -29,7 +29,6 @@ To explore and visualize UK train data, to understand:
 * The top 5 routes, London Paddington to Reading, made higher ticket sales than the other routes. This route contributed 9.79% to the overall revenue.
 <img width="936" alt="Screenshot 2025-04-20 at 10 49 44 AM" src="https://github.com/user-attachments/assets/dec5d5b4-f3c2-4737-b3a5-ef2ff6c0a461" />
 
-
 2. Peak Travel Times:
 - Peak travel hours are 6:30 am - 7:00 am, 4-5:30 pm, and 6:20 pm-8 pm. 
 - Tuesday is the week's busiest day, especially in the morning. The other days of the week are less busy than Tuesday.
