@@ -45,6 +45,9 @@ Tuesday is the busiest day of the week, especially in the morning. The other day
 - 88.2% of trains arrive on time; none of the passengers requested a refund.
 - Delays and cancellations cause refund requests. In January, technical issues resulted in a refund request of $2905 due to delays. Signal failure caused journey cancellations, which accounted for a $7,550 refund request.
 - In March, technical issues and signal failures increased by 33.5%. These causes need improvement to enhance the punctuality rate.
+<img width="375" alt="Screenshot 2025-04-20 at 10 54 48 AM" src="https://github.com/user-attachments/assets/1edfa854-30e8-47c4-8bd8-067c795348be" />
+
+
 <img width="611" alt="Screenshot 2025-04-20 at 10 57 00 AM" src="https://github.com/user-attachments/assets/6860bafc-4854-48fd-96ff-11ac8d0e22aa" />
 
 <img width="609" alt="Screenshot 2025-04-20 at 10 57 12 AM" src="https://github.com/user-attachments/assets/396412af-6a13-4b3d-8cf2-09d1885f7029" />
