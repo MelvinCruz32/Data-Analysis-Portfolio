@@ -32,7 +32,7 @@ This project analyzes hospital patient records to uncover trends in admission, r
 - 2017 is higher because of the periodic evaluation. The percentage of patients who remained for 2 months is 73%. 
 - In 2018, another patient with a periodic evaluation stayed for almost a year, increasing the percentage to 92%.
 - 2020 had an average stay-in hour of 82.57 because 74% of patients contracted COVID-19. Their remaining time for isolation is 56%, and those in the intensive care unit stayed about 18%.
-- The average stay-in hours for 2021 are 5.7% higher than 2020's. Its average increased to 6.3% because the percentage of COVID-19 patients remaining has increased. The percentage of patients with COVID-19 who are in isolation has risen from 56% to 62%.
+- The average stay-in hours for 2021 are 5.7% higher than 2020's. Its average increased to 6.3% because the percentage of COVID-19 patients remaining has increased. The percentage of COVID-19 patients who are in isolation has risen from 56% to 62%.
 
 #### c. Hospital Costs per Visit
 - The average cost per visit is $6,270.
