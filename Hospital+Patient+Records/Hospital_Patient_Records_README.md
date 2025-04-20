@@ -1,7 +1,7 @@
 # Hospital Patient Records Analysis 
 
 ## Overview
-This project analyzes hospital patient records to uncover trends in admission, readmission, stay-in hours, visit cost, and insurance coverage.
+This project analyzes hospital patient records to uncover trends in admission, readmission, stay-in hours, visit costs, and insurance coverage.
 ## Objective
 - How many patients have been admitted or readmitted over time?
 - How long are patients staying in the hospital on average?
@@ -24,14 +24,14 @@ This project analyzes hospital patient records to uncover trends in admission, r
 
 #### a. Patients Admitted and Readmitted
 - In 2014, problem encounters, drug rehabilitation, and admission to hospice were the reasons why 25 patients went into admissions. These patients encountered problems such as malignant disorders, malignant tumors, and overlapping malignant.
-- In 2020, COVID-19, chronic heart failure, and malignant disorder were the reasons why 30 patients came to the hospital. The trend for that year increased to 13% higher because 48% of COVID-19 patients.
+- In 2020, COVID-19, chronic heart failure, and malignant disorder were the reasons why 30 patients came to the hospital. The trend for that year increased to 13% higher because of 48% of COVID-19 patients.
 - Four patients returned to the hospital because they encountered problems. The majority of these reasons are unknown. The readmission years are 2011, 2013, 2018, and 2019.
 
 #### b. Average Stay
 - The average hospital stay for Inpatients is 79 hours. The stay-in hours exceeded for years, such as 2017, 2018, 2020, and 2021.
 - 2017 is higher because of the periodic evaluation. The percentage of patients who remained for 2 months is 73%. 
-In 2018, another patient with a periodic evaluation stayed there for almost a year, increasing the percentage to 92%.
-- 2020 had an average stay-in hours of 82.57 because 74% of patients contracted COVID-19. Their remaining time for isolation is 56%, and those in the intensive care unit stayed about 18%.
+- In 2018, another patient with a periodic evaluation stayed there for almost a year, increasing the percentage to 92%.
+- 2020 had an average stay-in hour of 82.57 because 74% of patients contracted COVID-19. Their remaining time for isolation is 56%, and those in the intensive care unit stayed about 18%.
 - The 2021 average stay-in hours are 5.7% higher than 2020's. Its average increased to 6.3% because the percentage of COVID-19 patients staying at the hospital has increased. The percentage of patients with COVID-19 who are in isolation has risen from 56% to 62%.
 
 #### c. Hospital Costs per Visit
