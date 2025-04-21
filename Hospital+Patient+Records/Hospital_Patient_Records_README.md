@@ -28,7 +28,7 @@ This project analyzes hospital patient records to uncover trends in admission, r
 - Four patients returned to the hospital because they encountered problems. The majority of these reasons are unknown. The readmission years are 2011, 2013, 2018, and 2019.
 
 #### b. Average Stay
-- The average stay-in hours for Inpatients are 79 hours. The average stay-in hours exceeded for years such as 2017, 2018, 2020, and 2021.
+- The average stay-in hours for Inpatients are 79 hours. The average stay-in hours exceeded in 2017, 2018, 2020, and 2021.
 - 2017 is higher because of the periodic evaluation. The percentage of patients who remained for 2 months is 73%. 
 - In 2018, another patient with a periodic evaluation stayed for almost a year, increasing the percentage to 92%.
 - 2020 had an average stay-in hour of 82.57 because 74% of patients contracted COVID-19. Their remaining time for isolation is 56%, and those in the intensive care unit stayed about 18%.
