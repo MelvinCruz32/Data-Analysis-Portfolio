@@ -16,7 +16,7 @@ To explore and visualize UK train data, to understand:
 ## Process
 
 ### 1. Data Collection
-- This data set is from Maven Analytics, specifically at the data playground.
+- This dataset is from Maven Analytic's data playground (https://mavenanalytics.io/data-playground?page=2&pageSize=5).
 - Data includes columns such as transaction ID, date of purchase, time of purchase, purchase type, payment method, railcard, ticket class, ticket type, price, departure station, arrival destination, date of journey, departure time, arrival time, actual arrival time, journey status, reason for delay, and refund request.
 
 ### 2. Data Cleaning
