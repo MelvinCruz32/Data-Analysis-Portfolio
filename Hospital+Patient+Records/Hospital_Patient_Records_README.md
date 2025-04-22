@@ -13,7 +13,7 @@ This project analyzes hospital patient records to uncover trends in admissions, 
 - Excel
 ## Process
 ### 1. Data Collection
-- This dataset is from the Maven Analytics data playground.
+- This dataset is from the Maven Analytic's data playground.
 - It includes tables such as Encounters, Organizations, Patients, Payers, and Procedures.
 ### 2. Data Cleaning
 - I detected and removed duplicates with a CTE, window function, and delete statement.
