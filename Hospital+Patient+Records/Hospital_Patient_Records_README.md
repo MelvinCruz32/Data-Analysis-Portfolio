@@ -23,16 +23,16 @@ This project analyzes hospital patient records to uncover trends in admission, r
 ### 3. Visualization and Key Findings
 
 #### a. Patients Admitted and Readmitted
-- In 2014, problem encounters, drug rehabilitation, and admission to hospice were the reasons why 25 patients went into admissions. These patients encountered problems such as malignant disorders, malignant tumors, and overlapping malignant.
+- In 2014, problem encounters, drug rehabilitation, and admission to hospice were the reasons why 25 patients went into admissions. These patients encountered problems such as malignant disorders, malignant tumors, and overlapping malignant conditions.
 - In 2020, COVID-19, chronic heart failure, and malignant disorder were the reasons why 30 patients came to the hospital. The trend for that year increased to 13% higher because of 48% of COVID-19 patients.
 - Four patients returned to the hospital because they encountered problems. The majority of these reasons are unknown. The readmission years are 2011, 2013, 2018, and 2019.
 
 #### b. Average Stay
-- The average stay-in hours for Inpatients are 79 hours. The average stay-in hours exceeded in 2017, 2018, 2020, and 2021.
-- 2017 is higher because of the periodic evaluation. The percentage of patients who remained for 2 months is 73%. 
-- In 2018, another patient with a periodic evaluation stayed for almost a year, increasing the percentage to 92%.
-- 2020 had an average stay-in hour of 82.57 because 74% of patients contracted COVID-19. Their remaining time for isolation is 56%, and those in the intensive care unit stayed about 18%.
-- The average stay-in hours for 2021 are 5.7% higher than 2020's. Its average increased to 6.3% because the percentage of COVID-19 patients remaining has increased. The percentage of COVID-19 patients who are in isolation has risen from 56% to 62%.
+- The average stay-in hours for Inpatients are 79 hours. These hours exceeded for years such as 2017, 2018, 2020, and 2021. Besides these years, most inpatients have resided at the hospital for less than 79 hours.
+- 2017 had a higher average of 84 hours because an Inpatient stayed for two months. The patient came for a periodic reevaluation and management.
+- In 2018, the average stay-in hours was 319.71 hours. Another Inpatient with a periodic evaluation stayed for a year.
+- The 2020 average stay-in hour is 82.57 because of COVID-19 patients. Their remaining time for isolation is 5.75 days, and the intensive care unit is 8.3 days.
+- The average stay-in hours for 2021 was 87.58 hours. The average increased because COVID-19 patients stayed in the intensive care unit for a week. These patients in isolation stayed for ten days.
 
 #### c. Hospital Costs per Visit
 - The average cost per visit is $6,270.
@@ -42,6 +42,6 @@ This project analyzes hospital patient records to uncover trends in admission, r
 #### d. Procedures Covered by Insurance
 - 4756 insurance covered procedures, and Medicare is a popular insurance.
 - List of patients with Medicare that covered procedures (ambulatory: 28.74%, Outpatient: 26.35%, wellness: 23%, emergency: 14.72%, Inpatient: 5.55%, urgent care: 1.64%)
-- Ambulatory vs. emergency: The average insurance coverage for emergency is $75,100, while it is $45,780 for ambulatory. The emergency average is higher because the top 5 procedure coverages are more significant than 0.2m, and three are $933.36k higher than the other two. The three procedures are bone misapplication, echocardiography, and percutaneous mechanical thrombectomy. The ambulatory average is lower because its top 5 procedure coverages are within 0.2m. However, colonoscopies have an average of 0.91m, which is higher than the procedures.
-- Inpatients vs. Outpatients: The Outpatient average is $113.07k, and the Inpatient average is $88.44k. The Inpatient's top 5 procedures are higher than the Outpatient's top 5 procedures. The Inpatient's average is lower because the oxygen administration coverage is 0.13m, which is consistent with the range covered by other insurance. The Outpatient average is higher because the coverage ranges between 0.39m and 0.24m.
+- Ambulatory vs. emergency: The average insurance coverage for emergency is $75,100, while it is $45,780 for ambulatory. The emergency average is higher because the top 5 procedure coverages are more significant than 0.2m, and three are $933.36k higher than the other two. The three procedures are bone misapplication, echocardiography, and percutaneous mechanical thrombectomy. The ambulatory average is lower because its top 5 procedure coverages are within 0.2m. However, colonoscopy coverage is higher than the other procedures because its average is 0.91m.
+- Inpatients vs. Outpatients: The Outpatient average is $113.07k, and the Inpatient average is $88.44k. The Inpatient's top 5 procedures are higher than the Outpatient's top 5. The Inpatient's average is lower because the oxygen administration coverage is 0.13m, which is consistent with the range covered by other insurance. The Outpatient average is higher because the coverage ranges between 0.39m and 0.24m.
 - Urgent care vs. wellness: Wellness's average coverage is higher than urgent care's. Urgent care has three procedures, while wellness has more than that amount.
