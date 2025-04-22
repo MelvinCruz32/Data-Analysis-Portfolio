@@ -24,8 +24,8 @@ This project analyzes hospital patient records to uncover trends in admissions, 
 
 #### a. Patients Admitted and Readmitted
 - In 2014, 25 patients went into admissions because of problem encounters, drug rehabilitation, and hospice admission. These patients encountered problems such as malignant disorders, malignant tumors, and overlapping malignant conditions.
-- In 2020, 30 patients came to the hospital because of COVID-19, chronic heart failure, and malignant disorder. Admissions for that year increased because of 48% of COVID-19 patients.
-- Four patients returned to the hospital because they encountered problems. The majority of these reasons are unknown. The readmission years are 2011, 2013, 2018, and 2019.
+- In 2020, 30 patients came to the hospital because of COVID-19, chronic heart failure, and malignant disorder. Admissions for that year increased because 48% of COVID-19 patients were admitted to the hospital.
+- Four patients were readmitted because they encountered problems. The majority of these reasons are unknown. The readmission years are 2011, 2013, 2018, and 2019.
 
 #### b. Average Stay
 - The average stay-in hours for Inpatients are 79 hours. These hours exceeded for years such as 2017, 2018, 2020, and 2021. Besides these years, most inpatients have resided at the hospital for less than 79 hours.
