@@ -20,9 +20,9 @@ To explore and visualize UK train data, to understand:
 - Data includes columns such as transaction ID, date of purchase, time of purchase, purchase type, payment method, railcard, ticket class, ticket type, price, departure station, arrival destination, date of journey, departure time, arrival time, actual arrival time, journey status, reason for delay, and refund request.
 
 ### 2. Data Cleaning
-- Removed duplicate data from columns such as payment method, purchase location, railcard, ticket class, ticket type, price, routes, date of journey, journey time, journey status, reason for delay, and refund request
-- Filled empty rows on the reason for delay column with "No Delays"
-- Merged columns, such as purchase date with purchase time, departure routes with arrival routes, and departure time with arrival time
+- I removed duplicate data from columns such as payment method, purchase location, railcard, ticket class, ticket type, price, routes, date of journey, journey time, journey status, reason for delay, and refund request
+- I filled in the empty rows in the "Reason for Delay" column with "No Delays"
+- I merged columns such as "Purchase Date" with "Purchase Time", "Departure  Routes" with "Arrival Routes", and "Departure Time" with "Arrival Time".
 ### 3. Visualization & Key Findings
 1. Popular Routes: 
 * Manchester Piccadilly - Liverpool Lime Street topped the tree map with 3,854 ticket purchases. 
