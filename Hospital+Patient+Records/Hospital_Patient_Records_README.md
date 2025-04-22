@@ -1,7 +1,7 @@
 # Hospital Patient Records Analysis 
 
 ## Overview
-This project analyzes hospital patient records to uncover trends in admission, readmission, stay-in time, cost per visit, and insurance coverage.
+This project analyzes hospital patient records to uncover trends in admissions, readmissions, length of stay, cost per visit, and insurance coverage.
 ## Objective
 - How many patients have been admitted or readmitted over time?
 - How long are patients staying in the hospital on average?
