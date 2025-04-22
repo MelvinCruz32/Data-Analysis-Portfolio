@@ -13,7 +13,7 @@ This project analyzes hospital patient records to uncover trends in admissions, 
 - Excel
 ## Process
 ### 1. Data Collection
-- This dataset is from the Maven Analytic's data playground (https://mavenanalytics.io/data-playground?page=2&pageSize=5).
+- This dataset is from Maven Analytic's data playground (https://mavenanalytics.io/data-playground?page=2&pageSize=5).
 - It includes tables such as Encounters, Organizations, Patients, Payers, and Procedures.
 ### 2. Data Cleaning
 - I detected and removed duplicates with a CTE, window function, and delete statement.
@@ -29,9 +29,9 @@ This project analyzes hospital patient records to uncover trends in admissions, 
 
 #### b. Average Stay
 - The average inpatient stay is 79 hours. Inpatients stayed for at least 79 hours in 2017, 2018, 2020, and 2021. In other years, most inpatients stayed for less than 79 hours.
-- 2017 had a average of 84 hours because an Inpatient stayed for two months. The patient came for a periodic reevaluation and management.
-- In 2018, the average stay-in hours was 319.71 hours. Another Inpatient with a periodic evaluation stayed for a year.
-- The 2020 average stay-in hour is 82.57 because of COVID-19 patients. Their remaining time for isolation is 5.75 days, and the intensive care unit is 8.3 days.
+- In 2017, the average inpatient stay was 84 hours due to one patient who stayed for two months for periodic reevaluation and management.
+ periodic evaluation.
+- In 2020, the average inpatient stay was 82.57 hours, influenced by COVID-19 cases. These patients remained in isolation for an average of 5.75 days and in the intensive care unit for 8.3 days.
 
 #### c. Hospital Costs per Visit
 - The average cost per visit is $6,270.
