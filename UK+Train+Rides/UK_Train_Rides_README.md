@@ -27,7 +27,7 @@ To explore and visualize UK train data, to understand:
 1. Popular Routes: 
 - Manchester Piccadilly - Liverpool Lime Street topped the tree map with 3,854 ticket purchases. 
 - The top 5 routes, London Paddington to Reading, made higher ticket sales than the other routes. This route contributed 9.79% to the overall revenue.
-<img width="377" alt="Screenshot 2025-04-20 at 12 13 17 PM" src="https://github.com/user-attachments/assets/9897a915-c3a0-42e7-9780-08559d53078e" />
+<img width="374" alt="Screenshot 2025-04-23 at 11 05 38 AM" src="https://github.com/user-attachments/assets/eabbc556-3495-4787-989b-c1855db99889" />
 
 <img width="418" alt="Screenshot 2025-04-20 at 10 50 12 AM" src="https://github.com/user-attachments/assets/e141dd56-76cd-4ee4-9d2b-c8b3b988a1b2" />
 
