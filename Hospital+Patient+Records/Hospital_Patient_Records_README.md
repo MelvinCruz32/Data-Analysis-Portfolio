@@ -29,8 +29,7 @@ This project analyzes hospital patient records to uncover trends in admissions, 
 
 #### b. Average Stay
 - The average inpatient stay is 79 hours. Inpatients stayed for at least 79 hours in 2017, 2018, 2020, and 2021. In other years, most inpatients stayed for less than 79 hours.
-- In 2017, the average inpatient stay was 84 hours due to one patient who stayed for two months for periodic reevaluation and management.
- periodic evaluation.
+- In 2017, the average inpatient stay was 84 hours due to one patient who stayed for two months for a periodic reevaluation and management.
 - In 2020, the average inpatient stay was 82.57 hours, influenced by COVID-19 cases. These patients remained in isolation for an average of 5.75 days and in the intensive care unit for 8.3 days.
 
 #### c. Hospital Costs per Visit
