@@ -24,8 +24,6 @@ This project analyzes hospital patient records to uncover trends in admissions, 
 
 #### a. Patients Admitted and Readmitted
 - In 2014, 25 patients were admitted because of problem encounters, drug rehabilitation, and hospice admission. These patients encountered problems such as malignant disorders, malignant tumors, and overlapping malignant conditions.
-  ![Admitted and Readmitted](https://github.com/user-attachments/assets/62fabd92-c85a-4803-a871-50326d16f493)
-
 - In 2020, 30 patients came to the hospital because of COVID-19, chronic heart failure, and malignant disorder. Admissions for that year increased because 48% of COVID-19 patients went to the hospital.
 - Four patients were readmitted because they encountered problems. The majority of these reasons are unknown. The readmission years are 2011, 2013, 2018, and 2019.
 
