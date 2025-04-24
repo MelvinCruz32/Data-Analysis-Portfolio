@@ -1,5 +1,7 @@
 # Hospital Patient Records Analysis 
 
+## I originally completed this project in November 2024. In April 2025, I revisited the code to improve readability by adding comments, editing the program, and updating documentation.
+
 ## Overview
 This project analyzes hospital patient records to uncover trends in admissions, readmissions, length of stay, cost per visit, and insurance coverage.
 ## Objective
