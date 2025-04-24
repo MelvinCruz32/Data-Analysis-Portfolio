@@ -53,6 +53,8 @@ This project analyzes hospital patient records to uncover trends in admissions, 
 
 #### d. Procedures Covered by Insurance
 - 4,756 insurance-covered procedures, and Medicare is a popular insurance.
+  ![Medical_Insurance_1](https://github.com/user-attachments/assets/a6039a0e-d12c-4012-86f5-8c4a527f986b)
+
 - The average insurance coverage for emergency procedures is $75,100, compared to $45,780 for ambulatory care. Emergency averages are higher because the top five procedures each exceed $200,000, with three of them costing approximately $933,360 more than the other two. These high-cost procedures include bone misapplication, echocardiography, and percutaneous mechanical thrombectomy. In contrast, the top five ambulatory procedures are below $200,000, although colonoscopy coverage stands out with an average of $910,000.
   ![Medical_Insurance_2](https://github.com/user-attachments/assets/e2fe2990-b46f-487e-8ba3-dfd01fc80511)
 ![Medical_Insurance_3](https://github.com/user-attachments/assets/bc9feb84-68d4-4e0f-a778-fb5c4fd3ffdd)
@@ -62,3 +64,7 @@ This project analyzes hospital patient records to uncover trends in admissions, 
 ![Medical_Insurance_5](https://github.com/user-attachments/assets/b6e69ca3-a6f5-45e9-bf93-d56d605f862b)
 
 - Urgent care vs. wellness: The average insurance coverage for wellness procedures is higher than that of urgent care. Urgent care includes three covered procedures, while wellness encompasses a greater number.
+![Medical_Insurance_5](https://github.com/user-attachments/assets/c0dd54e1-3e46-4311-93ad-d6c423768bfd)
+![Medical_Insurance_6](https://github.com/user-attachments/assets/353f26e1-2de0-445e-ba33-86ec3ca1aecb)
+
+
