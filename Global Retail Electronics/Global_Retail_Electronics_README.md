@@ -36,3 +36,5 @@ The average delivery days have changed over time. In 2016, they were 8.054. The 
 The Average Order Value in-store is $892.04, while the average order value in the online store is $866.26. Many in-store customers who spend more are in their 30s, 40s, 70s, and 80s. Clustering analysis indicates that these customers spend between $10,000 and $30,000. The highest average spending is on home appliances, TVs, and video products. Australian customers' spending behavior is 4.1% higher than that of North Americans because they spend at least $2,000 on these products. North American customers have an average spending of between $1,580 and $2,094. I recommend targeting customers in their 30s, 40s, 70s, and 80s who like these products.
 <img width="935" alt="Screenshot 2025-04-23 at 10 11 14 PM" src="https://github.com/userattachments/assets/227bd852-fa84-4dc3-909c-1353c6ca6980" />
 
+To view and interact with the visualizations, click on the link below:
+https://public.tableau.com/app/profile/melvin.cruz/viz/GlobalRetailElectronics/AverageOrderValueDashboard
