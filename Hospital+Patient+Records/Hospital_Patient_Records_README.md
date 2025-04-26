@@ -65,7 +65,7 @@ This project analyzes hospital patient records to uncover trends in admissions, 
   ![Medical_Insurance_4](https://github.com/user-attachments/assets/26843a97-c6bd-452f-ab93-add1173ecff9)
 ![Medical_Insurance_5](https://github.com/user-attachments/assets/b6e69ca3-a6f5-45e9-bf93-d56d605f862b)
 
-- Urgent care vs. wellness: The average insurance coverage for wellness procedures is higher than that of urgent care. Urgent care includes three covered procedures, while wellness encompasses a greater number.
+- Urgent care vs. wellness: Wellness’s average coverage is higher than urgent care’s average. Urgent care has three procedures, while wellness has more procedures.
 ![Medical_Insurance_5](https://github.com/user-attachments/assets/c0dd54e1-3e46-4311-93ad-d6c423768bfd)
 ![Medical_Insurance_6](https://github.com/user-attachments/assets/353f26e1-2de0-445e-ba33-86ec3ca1aecb)
 
